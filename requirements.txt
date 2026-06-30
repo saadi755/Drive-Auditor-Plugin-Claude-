@@ -1,0 +1,6 @@
+# Runtime
+google-api-python-client>=2.130.0
+google-auth>=2.30.0
+mcp>=1.2.0
+# Tests
+pytest>=8.0.0
