@@ -1,4 +1,4 @@
-[drive-storage-auditor-README.md](https://github.com/user-attachments/files/29497619/drive-storage-auditor-README.md)
+
 # Drive Storage Auditor
 
 A read-only tool that scans a Google Workspace organization and finds the
